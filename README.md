@@ -1,10 +1,10 @@
-# Economic Analysis of India, USA and China based on some factors
+# Economic Analysis of India, USA and China based on various factors
 
-The data visualization created illustrates the economic changes of three countries India, USA and China over the period of 7 years from 2015 to 2021 based on the factors-
+The data visualization created illustrates the economic changes of three countries India, USA and China over the period of 7 years from 2015 to 2021 based on various factors-
 1.General Government Net Lending/Borrowing
 2.Current Account Balance
 3.Gross Domestic Product (GDP)
-This data visualization is done using Tableau Public.
+The data visualization is done using Tableau Public.
 
 ## 1) General Government Net Lending/Borrowing -
 * Net Lending(+)/Net Borrowing(-) is calculated as revenue minus total expenditure. This is a core GFS balance that measures the extent to which general government is either putting financial resources at the disposal of other sectors in the economy and non residents(net lending)
