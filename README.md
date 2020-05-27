@@ -27,7 +27,7 @@ This shall continue for India in 2021 as well based on the data. But China is ex
 * China is the only country we see in comparison to India and USA to have positive rate values since 2015 to 2021 which shows the country is a net exporter.
 * USA got the peak negative rate of current account balance in 2016 and the same value in 2020 again i.e. -0.6% (of GDP). The value is expected to go down in 2021,-1.4% (of GDP) which is a sign of hope for the country. The country has all negative values which means it is a net importer of goods and services. In 2021 it will import less than the year 2020. 
 * USA imported the least in 2018 whereas China exported the least in 2020.
-* India shows a linear graph with very less fluctuations over the course of 7 years. It imported the most in 2015, 2.2% (of GDP) and is expected to import the least in 2021, -2.8% (of GDP). 
+* India shows a linear graph with very less fluctuations over the course of 7 years. It imported the most in 2015, -2.2% (of GDP) and is expected to import the least in 2021, -2.8% (of GDP). 
 * The rate was same in 2016, 2017 and 2019 with a value of -2.3% (of GDP) for India. 
 
 ![Current Account Balance](https://user-images.githubusercontent.com/43654684/82994612-13cfbb00-a020-11ea-9c51-b98b426ea5c5.png)
