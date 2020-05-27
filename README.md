@@ -34,6 +34,4 @@ This data visualization is done using Tableau Public.
 
 ![International Competitiveness](https://user-images.githubusercontent.com/43654684/82994605-10d4ca80-a020-11ea-9b1e-b0a14705b521.png)
 
-Below is the dashboard to preview all the four illustrations simultaneously.
 
-![Economic Analysis](https://user-images.githubusercontent.com/43654684/82994649-20541380-a020-11ea-8dbb-6d3ac89c70a6.png)
